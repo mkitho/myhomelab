@@ -5,7 +5,8 @@ This page describes my home servers & networking setup.
 ## Goals
 
 1. Try out services that offer enterprise-level functionalities on my own hardware, while avoiding subscription fees
-2. Have fun learning latest technologies
+2. High core-count virtualization server enables setting up ad-hoc VMs for quick experimentations
+3. Have fun learning latest technologies
 
 ## Summary
 
